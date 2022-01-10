@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.special as sc
 import math
-
+ 
 
 def func_d(x):
     return (x ** (1/3))*np.sin(x)
